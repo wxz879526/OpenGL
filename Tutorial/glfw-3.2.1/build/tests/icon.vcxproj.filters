@@ -1,27 +1,27 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="F:\GrowUp\glfw-3.2.1\tests\icon.c">
+    <ClCompile Include="F:\Code\OpenGL\Tutorial\glfw-3.2.1\tests\icon.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="F:\GrowUp\glfw-3.2.1\deps\glad.c">
+    <ClCompile Include="F:\Code\OpenGL\Tutorial\glfw-3.2.1\deps\glad.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="F:\GrowUp\glfw-3.2.1\deps\glad\glad.h">
+    <ClInclude Include="F:\Code\OpenGL\Tutorial\glfw-3.2.1\deps\glad\glad.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="F:\GrowUp\glfw-3.2.1\tests\CMakeLists.txt" />
+    <CustomBuild Include="F:\Code\OpenGL\Tutorial\glfw-3.2.1\tests\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Source Files">
-      <UniqueIdentifier>{D0F7F4B1-4CEE-3451-9D60-2AC883DA3F91}</UniqueIdentifier>
+      <UniqueIdentifier>{32473DCF-B981-3D08-92E0-C287DCC6BD0E}</UniqueIdentifier>
     </Filter>
     <Filter Include="Header Files">
-      <UniqueIdentifier>{6FB631F3-6B8C-30C8-ABD1-0AA8ADED589B}</UniqueIdentifier>
+      <UniqueIdentifier>{BE5F63E7-3DBB-36D1-9553-7DD06C115EB8}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

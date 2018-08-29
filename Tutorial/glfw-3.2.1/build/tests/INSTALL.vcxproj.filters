@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <CustomBuild Include="F:\GrowUp\glfw-3.2.1\build\CMakeFiles\cb710a4707481b06a1fa1ef3654a6242\INSTALL_force.rule">
+    <CustomBuild Include="F:\Code\OpenGL\Tutorial\glfw-3.2.1\build\CMakeFiles\a7d4e9ea526159c1571a102c730e2504\INSTALL_force.rule">
       <Filter>CMake Rules</Filter>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="CMake Rules">
-      <UniqueIdentifier>{99FD3513-E888-3136-85EB-CF52F89F87C5}</UniqueIdentifier>
+      <UniqueIdentifier>{4E79270E-64E4-3B0A-8108-3080778FA47F}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

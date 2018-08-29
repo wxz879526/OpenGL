@@ -1,4 +1,4 @@
-# Install script for directory: F:/GrowUp/glfw-3.2.1/examples
+# Install script for directory: F:/Code/OpenGL/Tutorial/glfw-3.2.1/examples
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

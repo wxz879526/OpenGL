@@ -47,7 +47,7 @@
       <WarningLevel>Level3</WarningLevel>
       <Optimization>Disabled</Optimization>
       <SDLCheck>true</SDLCheck>
-      <AdditionalIncludeDirectories>..\..\glad\include;..\..\glfw-3.3.2\include</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>..\..\glad\include;..\..\glfw-3.3.2\include;..\..\glm\</AdditionalIncludeDirectories>
       <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
     </ClCompile>
     <Link>
